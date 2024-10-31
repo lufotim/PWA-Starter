@@ -1,0 +1,3 @@
+This is a git testing file.
+
+這是最初的Git測試。
