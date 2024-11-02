@@ -2,4 +2,4 @@ This is a git testing file.
 這是最初的Git測試。
 修改from macbook air.
 在此試著新增一行內容
-排除測試.....
+排除測試.....+++++
