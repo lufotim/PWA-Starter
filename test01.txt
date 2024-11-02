@@ -1,9 +1,5 @@
 This is a git testing file.
 這是最初的Git測試。
 修改from macbook air.
-<<<<<<< HEAD
 在此試著新增一行內容
 2024-11-2新增一行
-=======
-
->>>>>>> parent of f4bb9bd (Update test01.txt)
