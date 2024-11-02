@@ -1,8 +1,4 @@
 This is a git testing file.
-<<<<<<< HEAD
-=======
-
->>>>>>> parent of 4423a48 (Update test01.txt from github desktop)
 這是最初的Git測試。
 修改from macbook air.
 在此試著新增一行內容
