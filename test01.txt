@@ -5,3 +5,4 @@ This is a git testing file.
 排除測試.....+++++
 testing.....
 ignore testing
+12345
