@@ -5,4 +5,5 @@ This is a git testing file.
 排除測試.....+++++
 testing.....
 ignore testing
-123456789A
+123456789A123
+11/18
